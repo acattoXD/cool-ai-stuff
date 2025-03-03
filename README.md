@@ -3,7 +3,7 @@
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/zukixa/cool-ai-stuff?style=social)](https://github.com/zukixa/cool-ai-stuff/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-February%2027%2C%202025-blue)](https://github.com/zukixa/cool-ai-stuff)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202%2C%202025-blue)](https://github.com/zukixa/cool-ai-stuff)
 [![Providers](https://img.shields.io/badge/API%20Providers-15%2B-green)](https://github.com/zukixa/cool-ai-stuff)
 
 **A curated collection of AI APIs and websites offering free usage of AI models under g4f principles**
