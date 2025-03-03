@@ -276,9 +276,6 @@ The AI Chat Websites section is no longer actively maintained. For a more curren
 <div align="center">
   
 **⭐ Found this useful? Star the repo! ⭐**
-
-[Contribute](#) | [Report Issues](#) | [Join our Discord](https://discord.gg/DWU2egFnHh)
-
-Last updated: February 27, 2025 • Data provided without warranty
+[Join our Discord](https://discord.gg/DWU2egFnHh)
 
 </div>
