@@ -72,7 +72,7 @@ To be added to this list, your API must:
 | ---------------------------------------- | ----- | ------------ | ----------------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [ClashAI](https://discord.gg/qErXfbPHMa) | 1,023 | ❌ Forbidden | ❌                                                    | [Sian](https://github.com/invalidsian) | [Models](https://api.clashai.eu/v1/models)  | API with developers of unknown skill. Partially utilizes other APIs on this list for sources. |
 | [Skailar](https://discord.gg/2n5AuCF3bD) | 467   | ❌ Forbidden | ✅ [Repo](https://github.com/zukijourney/example-api) | [Aquadraws](https://api.skailar.it/)   | [Models](https://api.skailar.it/v1/models)  | One of the oldest APIs. Stability and maintainer involvement are questionable.                |
-| [CilloAI](https://discord.gg/B2ncPGGFdX) | 192   | ❌ Forbidden | ❌                                                    | [bphv](https://github.com/bphv)        | [Models](https://api.cilloai.com/v1/models) | A pretty new API of promising potential. Some cool models for free.                           |
+| [CilloAI](https://discord.gg/B2ncPGGFdX) | 192   | ❌ Forbidden | ❌                                                    | [bphv](https://github.com/bphv)        | [Models](https://api.cilloai.com/v1/models) | [Service is just a g4f-branded version of ShuttleAI, a previous API project now not applicable under the principles.](https://files.catbox.moe/xk0ks7.png)                           |
 
 </details>
 
