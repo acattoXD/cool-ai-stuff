@@ -72,7 +72,7 @@ To be added to this list, your API must:
 | ---------------------------------------- | ----- | ------------ | ----------------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [ClashAI](https://discord.gg/qErXfbPHMa) | 1,023 | ❌ Forbidden | ❌                                                    | [Sian](https://github.com/invalidsian) | [Models](https://api.clashai.eu/v1/models)  | API with developers of unknown skill. Partially utilizes other APIs on this list for sources. |
 | [Skailar](https://discord.gg/2n5AuCF3bD) | 467   | ❌ Forbidden | ✅ [Repo](https://github.com/zukijourney/example-api) | [Aquadraws](https://api.skailar.it/)   | [Models](https://api.skailar.it/v1/models)  | One of the oldest APIs. Stability and maintainer involvement are questionable.                |
-| [CilloAI](https://discord.gg/B2ncPGGFdX) | 192   | ❌ Forbidden | ❌                                                    | [bphv](https://github.com/bphv)        | [Models](https://api.cilloai.com/v1/models) | [Service is just a g4f-branded version of ShuttleAI, a previous API project now not applicable under the principles.](https://files.catbox.moe/xk0ks7.png)                           |
+| [NexeonAI](https://discord.gg/5DfYgqX9DU)      | 303   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)      | Owner has been regularly DDOSing competition very openly and publicly. This is a known thing within the community, and the owner himself publicly admits to this. |
 
 </details>
 
@@ -83,7 +83,6 @@ To be added to this list, your API must:
 | ---------------------------------------------- | ----- | ------------ | ----------- | ----------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [CablyAI](https://discord.gg/6W5448ZcEY)       | 1,088 | ✅ Allowed   | ❌          | [CablyAI](https://github.com/CablyAI)     | [Models](https:/cablyai.com/v1/models)        | [De-Facto Owner is a subhumanely terrible being.](https://rentry.co/hitlerofg4f)                                                                                  |
 | [ShadowJourney](https://discord.gg/WgRsRfH38E) | 801   | ❌ Forbidden | ❌          | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models) | [Admitted privately to DDOS competition.](https://files.catbox.moe/4wu7t2.png) Very weird owner. Stability often questioned due to supposed fake models.          |
-| [NexeonAI](https://discord.gg/5DfYgqX9DU)      | 303   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)      | Owner has been regularly DDOSing competition very openly and publicly. This is a known thing within the community, and the owner himself publicly admits to this. |
 
 </details>
 
