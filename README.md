@@ -50,7 +50,7 @@ To be added to this list, your API must:
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,382 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)         | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                            |
 | [HelixMind](https://discord.gg/466vKB47JH) | 1,426 | ❌ Forbidden | ❌          | [faer1x](https://github.com/faer1x)     | [Models](https://helixmind.online/model)        | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier. |
-| [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,350 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service.   |
+| [FresedGPT](https://discord.gg/AWzY3b2DJH) | 250   | ❌ Forbidden | ❌                                                   | [Fresed](https://github.com/qazplmqaz) | [Models](https://fresedgpt.space/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                  |
 
 </details>
 
@@ -59,9 +59,9 @@ To be added to this list, your API must:
 
 | Service                                    | Users | NSFW/RP      | Open Source                                          | Owner(s)                               | Models                                      | Notes                                                                                           |
 | ------------------------------------------ | ----- | ------------ | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,350 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service.   |
 | [XET](https://discord.gg/5nWPxVSvp7)       | 1,199 | ✅ Allowed   | ✅ [Repo](https://github.com/AlphastT101/luminaryai) | [alphast101](https://owner.xet.one)    | [Models](https://api.xet.one/v1/models)     | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid)          |
 | [VoidAI](https://discord.gg/2nQwkvFFj6)    | 656   | ✅ Limited   | ❌                                                   | [acatto](https://github.com/acattoXD)  | [Models](https://api.voidai.xyz/v1/models)  | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
-| [FresedGPT](https://discord.gg/AWzY3b2DJH) | 250   | ❌ Forbidden | ❌                                                   | [Fresed](https://github.com/qazplmqaz) | [Models](https://fresedgpt.space/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                  |
 
 </details>
 
