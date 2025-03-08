@@ -48,7 +48,7 @@ To be added to this list, your API must:
 
 | Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                          | Notes                                                                                                    |
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,382 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)         | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                            |
+| [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,391 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)         | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                            |
 | [HelixMind](https://discord.gg/466vKB47JH) | 1,426 | ❌ Forbidden | ❌          | [faer1x](https://github.com/faer1x)     | [Models](https://helixmind.online/model)        | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier. |
 | [FresedGPT](https://discord.gg/AWzY3b2DJH) | 250   | ❌ Forbidden | ❌                                                   | [Fresed](https://github.com/qazplmqaz) | [Models](https://fresedgpt.space/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                  |
 
@@ -148,7 +148,7 @@ To be added to this list, your API must:
   <tr>
     <td><b><a href="https://discord.gg/8ywEPhnJy4">NagaAI</a></b></td>
     <td><a href="https://naga.ac/dashboard/models">Details</a></td>
-    <td align="center">💰</td>
+    <td align="center">✅</td>
     <td align="center">💰</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
@@ -228,7 +228,7 @@ To be added to this list, your API must:
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
     <td align="center">❌</td>
   </tr>
   <tr>
