@@ -3,7 +3,7 @@
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/zukixa/cool-ai-stuff?style=social)](https://github.com/zukixa/cool-ai-stuff/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202%2C%202025-blue)](https://github.com/zukixa/cool-ai-stuff)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2011%2C%202025-blue)](https://github.com/zukixa/cool-ai-stuff)
 [![Providers](https://img.shields.io/badge/API%20Providers-15%2B-green)](https://github.com/zukixa/cool-ai-stuff)
 
 **A curated collection of AI APIs and websites offering free usage of AI models under g4f principles**
@@ -72,7 +72,7 @@ To be added to this list, your API must:
 | ---------------------------------------- | ----- | ------------ | ----------------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [ClashAI](https://discord.gg/qErXfbPHMa) | 1,030 | ❌ Forbidden | ❌                                                    | [Sian](https://github.com/invalidsian) | [Models](https://api.clashai.eu/v1/models)  | API with developers of unknown skill. Partially utilizes other APIs on this list for sources. |
 | [Skailar](https://discord.gg/2n5AuCF3bD) | 467   | ❌ Forbidden | ✅ [Repo](https://github.com/zukijourney/example-api) | [Aquadraws](https://api.skailar.it/)   | [Models](https://api.skailar.it/v1/models)  | One of the oldest APIs. Stability and maintainer involvement are questionable.                |
-
+| [HareProxy](https://discord.gg/rpURd3jaRf) | 271            | ✅ Allowed      | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://unified.hareproxy.io.vn/v1/models) | Owner self-proclaimes to be unable to code.      |
 </details>
 
 <details>
