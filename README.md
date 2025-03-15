@@ -161,9 +161,9 @@ To be added to this list, your API must:
     <td align="center">✅</td>
     <td align="center">💰</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">💰</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">💰</td>
   </tr>
   <tr>
     <td><b><a href="https://discord.gg/vbb2NQuWdR">WebraftAI</a></b></td>
@@ -244,11 +244,11 @@ To be added to this list, your API must:
   <tr>
     <td><b><a href="https://discord.gg/466vKB47JH">HelixMind</a></b></td>
     <td><a href="https://helixmind.online/#pricing">Details</a></td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
     <td align="center">❌</td>
   </tr>
   <tr>
