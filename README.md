@@ -37,7 +37,7 @@ To be added to this list, your API must:
 
 | Service                                      | Users | NSFW/RP       | Open Source                                            | Owner(s)                                  | Models                                             | Notes                                                                                                                           |
 | -------------------------------------------- | ----- | ------------- | ------------------------------------------------------ | ----------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [zukijourney](https://discord.gg/DWU2egFnHh) | 7,032 | ✅ Allowed    | ✅ [Repo](https://github.com/zukijourney/example-api/) | [ZJ Team](https://zukijourney.com/)       | [Models](https://docs.zukijourney.com/models)      | The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too. |
+| [zukijourney](https://discord.gg/DWU2egFnHh) | 7,032 | ✅ Allowed    | ✅ [Repo](https://github.com/zukijourney/api-oss/) | [ZJ Team](https://zukijourney.com/)       | [Models](https://docs.zukijourney.com/models)      | The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too. |
 | [ElectronHub](https://discord.gg/4xg2TM3mNP) | 2,274 | ✅ Use /nsfw/ | ❌                                                     | [snowby666](https://github.com/snowby666) | [Models](https://playground.electronhub.top/model) | Developed by the maintainer of the [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper). Very RP-friendly.           |
 | [ZanityAI](https://discord.gg/8GgUak8KrK)    | 1,268 | 💰 Paid only  | ❌                                                     | [Voidii](https://github.com/void6670)     | [Models](https://api.zanity.xyz/v1/models)         | A roleplay-friendly API led by a Zukijourney friend. Ran on a stolen ZJ codebase for a pretty long time.                        |
 
@@ -60,9 +60,8 @@ To be added to this list, your API must:
 | Service                                    | Users | NSFW/RP      | Open Source                                          | Owner(s)                               | Models                                      | Notes                                                                                           |
 | ------------------------------------------ | ----- | ------------ | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,366 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service.   |
-| [XET](https://discord.gg/5nWPxVSvp7)       | 1,198 | ✅ Allowed   | ✅ [Repo](https://github.com/AlphastT101/luminaryai) | [alphast101](https://owner.xet.one)    | [Models](https://api.xet.one/v1/models)     | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid)          |
 | [VoidAI](https://discord.gg/2nQwkvFFj6)    | 663   | ✅ Limited   | ❌                                                   | [acatto](https://github.com/acattoXD)  | [Models](https://api.voidai.xyz/v1/models)  | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
-
+| [sailai](https://discord.gg/qgZDKefH2W) | 545 | ❌ Forbidden | ✅ [Here](https://github.com/zukijourney/api-oss/)| [vneq](https://github.com/vneqisntreal) | [Models](https://api.sail-ai.xyz/v1/models) | Owner has a history of being unable to keep an API open for a long period of time. |
 </details>
 
 <details>
@@ -71,7 +70,7 @@ To be added to this list, your API must:
 | Service                                  | Users | NSFW/RP      | Open Source                                           | Owner(s)                               | Models                                      | Notes                                                                                         |
 | ---------------------------------------- | ----- | ------------ | ----------------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [ClashAI](https://discord.gg/qErXfbPHMa) | 1,030 | ❌ Forbidden | ❌                                                    | [Sian](https://github.com/invalidsian) | [Models](https://api.clashai.eu/v1/models)  | API with developers of unknown skill. Partially utilizes other APIs on this list for sources. |
-| [Skailar](https://discord.gg/2n5AuCF3bD) | 467   | ❌ Forbidden | ✅ [Repo](https://github.com/zukijourney/example-api) | [Aquadraws](https://api.skailar.it/)   | [Models](https://api.skailar.it/v1/models)  | One of the oldest APIs. Stability and maintainer involvement are questionable.                |
+| [Skailar](https://discord.gg/2n5AuCF3bD) | 467   | ❌ Forbidden | ✅ [Repo](https://github.com/zukijourney/api-oss) | [Aquadraws](https://api.skailar.it/)   | [Models](https://api.skailar.it/v1/models)  | One of the oldest APIs. Stability and maintainer involvement are questionable.                |
 | [HareProxy](https://discord.gg/rpURd3jaRf) | 271            | ✅ Allowed      | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://unified.hareproxy.io.vn/v1/models) | Owner self-proclaimes to be unable to code.      |
 </details>
 
@@ -94,6 +93,7 @@ To be added to this list, your API must:
 | [g4f.ai](https://discord.gg/nks3XTxdsN)                       | 12,514 | Hub of the github [repository](https://github.com/xtekky/gpt4free) that started it all.                                             | Not very active, nor really moderated.                                                                   |
 | [NexusAI](https://discord.gg/YA6ESvHsCF)                      | 6,874  | Continuation of an older project. Provides UIs for image and ai text generation.                                                    | Moonman/Pushkar is a known credit card fraudster and self-advertised his projects in many places before. |
 | [FreeGPT4](https://discord.gg/free-gpt-4-1106520284967735316) | 4,827  | Ancient community of gpt-4-free individuals. Plenty good AI-related content.                                                        | Ran by [@lomusire](https://github.com/Lomusire)                                                          |
+| [XET](https://discord.gg/5nWPxVSvp7)       | 1,198 | AI API "Hobby Project"  | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid)          |
 | [SpyrkAI](https://discord.gg/A6mhxXMcWe)                      | 658    | AI Labs founded by (some) ex-community members; aims to create a free & OSS alt. to OpenAI, leveraging growing interest in AI APIs. | Currently a slightly inactive server, but some behind-the-scenes work continues.                         |
 | [OzoneAI](https://discord.gg/35Uf7aQQQC)                      | 189    | A research-lab of sorts in the genre of AI. Makes interesting stuff.                                                                | Founder is historically an unstable person.                                                              |
 
@@ -173,6 +173,16 @@ To be added to this list, your API must:
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">✅</td>
+    <td align="center">❌</td>
+  </tr>
+   <tr>
+    <td><b><a href="https://discord.gg/vbb2NQuWdR">sailai</a></b></td>
+    <td><a href="https://api.sail-ai.xyz/v1/models">Details</a></td>
+    <td align="center">✅</td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">💰</td>
     <td align="center">❌</td>
   </tr>
 </table>
