@@ -139,11 +139,11 @@ To be added to this list, your API must:
     <td><b><a href="https://discord.gg/8GgUak8KrK">ZanityAI</a></b></td>
     <td><a href="https://docs.zanity.xyz">Details</a></td>
     <td align="center">✅</td>
-    <td align="center">💰</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td><b><a href="https://discord.gg/8ywEPhnJy4">NagaAI</a></b></td>
