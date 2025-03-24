@@ -70,7 +70,7 @@ To be added to this list, your API must:
 | Service                                  | Users | NSFW/RP      | Open Source                                           | Owner(s)                               | Models                                      | Notes                                                                                         |
 | ---------------------------------------- | ----- | ------------ | ----------------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [ClashAI](https://discord.gg/qErXfbPHMa) | 1,605 | ❌ Forbidden | ❌                                                    | [Sian](https://github.com/invalidsian) | [Models](https://api.clashai.eu/v1/models)  | API with developers of unknown skill. Partially utilizes other APIs on this list for sources. |
-| [FeathrAI](https://discord.gg/WgRsRfH38E) | 853   | ❌ Forbidden | ❌          | [ichatei](https://feathrai.xyz)      | [Models](https://feathrai.xyz/v1/models) | [Admitted privately to DDOS competition.](https://files.catbox.moe/4wu7t2.png)      |
+| [FeathrAI](https://discord.gg/WgRsRfH38E) | 853   | ❌ Forbidden | ❌          | [ichatei](https://feathrai.xyz)      | [Models](https://feathrai.xyz/v1/models) | [Place has some lore.](https://rentry.co/sjlore)      |
 | [Skailar](https://discord.gg/2n5AuCF3bD) | 469   | ❌ Forbidden | ✅ [Repo](https://github.com/zukijourney/api-oss) | [Aquadraws](https://api.skailar.it/)   | [Models](https://api.skailar.it/v1/models)  | One of the oldest APIs. Stability and maintainer involvement are questionable.                |
 </details>
 
