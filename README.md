@@ -61,7 +61,7 @@ To be added to this list, your API must:
 | ------------------------------------------ | ----- | ------------ | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,410 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service.   |
 | [VoidAI](https://discord.gg/2nQwkvFFj6)    | 695   | ✅ Limited   | ❌                                                   | [acatto](https://github.com/acattoXD)  | [Models](https://api.voidai.xyz/v1/models)  | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
-| [sailai](https://discord.gg/qgZDKefH2W) | 576 | ❌ Forbidden | ✅ [Here](https://github.com/zukijourney/api-oss/)| [vneq](https://github.com/vneqisntreal) | [Models](https://api.sail-ai.xyz/v1/models) | Owner has a history of being unable to keep an API open for a long period of time. |
+| [NexeonAI](https://discord.gg/5DfYgqX9DU)      | 377   | ❌ Forbidden | ❌                                              | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)      | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent. |
 </details>
 
 <details>
@@ -80,7 +80,6 @@ To be added to this list, your API must:
 | Service                                        | Users | NSFW/RP      | Open Source | Owner(s)                                  | Models                                        | Why Potentially Misleading?                                                                                                                                       |
 | ---------------------------------------------- | ----- | ------------ | ----------- | ----------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [CablyAI](https://discord.gg/6W5448ZcEY)       | 1,416 | ✅ Allowed   | ❌          | [CablyAI](https://github.com/CablyAI)     | [Models](https:/cablyai.com/v1/models)        | [De-Facto Owner is a subhumanely terrible being.](https://rentry.co/hitlerofg4f)                                                                                  |
-| [NexeonAI](https://discord.gg/5DfYgqX9DU)      | 377   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)      | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent. |
 | [HareProxy](https://discord.gg/rpURd3jaRf) | 281            | ✅ Allowed      | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://unified.hareproxy.io.vn/v1/models) | Owner self-proclaimes to be unable to code. Also very unstable api due to no commitment to keeping it alive.     |
 
 </details>
