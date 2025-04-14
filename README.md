@@ -3,7 +3,7 @@
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/zukixa/cool-ai-stuff?style=social)](https://github.com/zukixa/cool-ai-stuff/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2026%2C%202025-blue)](https://github.com/zukixa/cool-ai-stuff)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%2014%2C%202025-blue)](https://github.com/zukixa/cool-ai-stuff)
 [![Providers](https://img.shields.io/badge/API%20Providers-15%2B-green)](https://github.com/zukixa/cool-ai-stuff)
 
 **A curated collection of AI APIs and websites offering free usage of AI models under g4f principles**
@@ -57,11 +57,11 @@ To be added to this list, your API must:
 <details>
 <summary><b>Tier 3 — 'Inconsistent' APIs</b></summary>
 
-| Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                  | Models                                          | Notes                                                                                                  |
-| ------------------------------------------ | ----- | ------------ | ----------- | ----------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,478 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer)   | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
-| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 603   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)     | [Models](https://api.voidai.xyz/v1/models)      | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.        |
-| [NexeonAI](https://discord.gg/5DfYgqX9DU)  | 377   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)        | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent.  |
+| Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                          | Notes                                                                                                  |
+| ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,478 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
+| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 603   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.xyz/v1/models)      | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.        |
+| [MNN](https://discord.gg/xKmsCCzUFW)       | 183   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mmnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
 
 </details>
 
@@ -79,10 +79,11 @@ To be added to this list, your API must:
 <details>
 <summary><b>Tier 5 — Caution Advised! Questionable AI API Offerings</b></summary>
 
-| Service                                    | Users | NSFW/RP    | Open Source                                           | Owner(s)                              | Models                                           | Why Potentially Misleading?                                                                                  |
-| ------------------------------------------ | ----- | ---------- | ----------------------------------------------------- | ------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [CablyAI](https://discord.gg/6W5448ZcEY)   | 1,416 | ✅ Allowed | ❌                                                    | [CablyAI](https://github.com/CablyAI) | [Models](https:/cablyai.com/v1/models)           | [De-Facto Owner is a subhumanely terrible being.](https://rentry.co/hitlerofg4f)                             |
-| [HareProxy](https://discord.gg/rpURd3jaRf) | 284   | ✅ Allowed | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://public.hareproxy.com/v1/models) | Owner self-proclaimes to be unable to code. Also very unstable api due to no commitment to keeping it alive. |
+| Service                                    | Users | NSFW/RP      | Open Source                                           | Owner(s)                                  | Models                                           | Why Potentially Misleading?                                                                                  |
+| ------------------------------------------ | ----- | ------------ | ----------------------------------------------------- | ----------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| [CablyAI](https://discord.gg/6W5448ZcEY)   | 1,416 | ✅ Allowed   | ❌                                                    | [CablyAI](https://github.com/CablyAI)     | [Models](https:/cablyai.com/v1/models)           | [De-Facto Owner is a subhumanely terrible being.](https://rentry.co/hitlerofg4f)                             |
+| [NexeonAI](https://discord.gg/5DfYgqX9DU)  | 377   | ❌ Forbidden | ❌                                                    | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)         | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent.        |
+| [HareProxy](https://discord.gg/rpURd3jaRf) | 284   | ✅ Allowed   | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945)     | [Models](https://public.hareproxy.com/v1/models) | Owner self-proclaimes to be unable to code. Also very unstable api due to no commitment to keeping it alive. |
 
 </details>
 
@@ -95,8 +96,9 @@ To be added to this list, your API must:
 | [NexusAI](https://discord.gg/YA6ESvHsCF)                      | 6,874  | Continuation of an older project. Provides UIs for image and ai text generation.                                                    | Moonman/Pushkar is a known credit card fraudster and self-advertised his projects in many places before. |
 | [FreeGPT4](https://discord.gg/free-gpt-4-1106520284967735316) | 4,832  | Ancient community of gpt-4-free individuals. Plenty good AI-related content.                                                        | Ran by [@lomusire](https://github.com/Lomusire)                                                          |
 | [SpyrkAI](https://discord.gg/A6mhxXMcWe)                      | 642    | AI Labs founded by (some) ex-community members; aims to create a free & OSS alt. to OpenAI, leveraging growing interest in AI APIs. | Currently a slightly inactive server, but some behind-the-scenes work continues.                         |
+| [RespyTech](https://discord.gg/VQQyCNFnJA)                    | 626    | AI Server made to collect some projects by its creator - respy.                                                                     | Has an AI API that is however a layer two, being a 'collection' of all APIs on cas here.                 |
 | [XET](https://discord.gg/cNtPXsZut9)                          | 472    | AI API "Hobby Project"                                                                                                              | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid)                   |
-| [OpenShapes](https://discord.gg/S4djBxRehM)                   | 21     | Project server for 'open source character-ai-like discord bots' - the OpenShapes platform.                                          | Still a WIP - project wise. Selfhost option works!                                                       |
+| [OpenShapes](https://discord.gg/S4djBxRehM)                   | 25     | Project server for 'open source character-ai-like discord bots' - the OpenShapes platform.                                          | Still a WIP - project wise. Selfhost option works!                                                       |
 
 </details>
 
@@ -177,13 +179,13 @@ To be added to this list, your API must:
     <td align="center">❌</td>
   </tr>
    <tr>
-    <td><b><a href="https://discord.gg/vbb2NQuWdR">sailai</a></b></td>
-    <td><a href="https://api.sail-ai.xyz/v1/models">Details</a></td>
+    <td><b><a href="https://discord.gg/xKmsCCzUFW">MMN</a></b></td>
+    <td><a href="https://api.mmnai.ru/v1/models">Details</a></td>
     <td align="center">✅</td>
-    <td align="center">💰</td>
+    <td align="center">❌</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">💰</td>
+    <td align="center">❌</td>
     <td align="center">❌</td>
   </tr>
 </table>
