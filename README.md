@@ -186,7 +186,7 @@ To be added to this list, your API must:
     <td align="center">❌</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
     <td align="center">❌</td>
   </tr>
   <tr>
