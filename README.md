@@ -61,7 +61,7 @@ To be added to this list, your API must:
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,478 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
 | [SailAI](https://discord.gg/xKmsCCzUFW)       | 576   | ✅ Limited   | ❌          | [vneq](https://github.com/vneqisntreal)     | [Models](https://api.sail-ai.xyz/v1/models)        | New promising API. Owner has a history of being unable to keep an API open for a long period of time. |                                              |
-| [MNN](https://discord.gg/xKmsCCzUFW)       | 183   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mmnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
+| [MNN](https://discord.gg/xKmsCCzUFW)       | 183   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mnnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
 
 </details>
 
@@ -180,8 +180,8 @@ To be added to this list, your API must:
     <td align="center">❌</td>
   </tr>
    <tr>
-    <td><b><a href="https://discord.gg/xKmsCCzUFW">MMN</a></b></td>
-    <td><a href="https://api.mmnai.ru/v1/models">Details</a></td>
+    <td><b><a href="https://discord.gg/xKmsCCzUFW">MNN</a></b></td>
+    <td><a href="https://api.mnnai.ru/v1/models">Details</a></td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">✅</td>
