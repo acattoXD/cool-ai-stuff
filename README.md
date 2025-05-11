@@ -49,7 +49,7 @@ To be added to this list, your API must:
 | Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                      | Notes                                                                                                    |
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,464 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)     | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                            |
-| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 615   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.xyz/v1/models)      | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.        |
+| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 615   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.app/v1/models)      | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.        |
 | [FresedGPT](https://discord.gg/AWzY3b2DJH) | 400   | ❌ Forbidden | ❌          | [Fresed](https://github.com/qazplmqaz)  | [Models](https://fresedgpt.space/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                           |
 
 </details>
@@ -199,6 +199,16 @@ To be added to this list, your API must:
     <td align="center">❌</td>
     <td align="center">❌</td>
   </tr>
+  <tr>
+    <td><b><a href="https://discord.gg/2nQwkvFFj6">VoidAI</a></b></td>
+    <td><a href="https://api.voidai.app/v1/models">Details</a></td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+  </tr>
 </table>
 
 ### API Feature Comparison
@@ -267,7 +277,7 @@ To be added to this list, your API must:
   </tr>
   <tr>
     <td><b><a href="https://discord.gg/2nQwkvFFj6">VoidAI</a></b></td>
-    <td><a href="https://voidai.xyz/pricing">Details</a></td>
+    <td><a href="https://voidai.app/pricing">Details</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
